@@ -1,2 +1,2 @@
 # Ignore the RobinHoodTrading Folder
-RobinHoodTrading/
+echo "RobinHoodTrading/" >> .gitignore
