@@ -1,2 +1,0 @@
-# TODO
-Read robinhood API
